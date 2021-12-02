@@ -1,8 +1,15 @@
 ![](https://raw.githubusercontent.com/PatrikElfstrom/patrikelfstrom/main/polygon.svg)
 
 
+### Hiii 👋
+
+I'm a developer from Sweden 🇸🇪 that mostly build stuff in TypeScript, React and NodeJS.
+
+I currently work as a fullstack developer at [Humblebee](https://www.humblebee.se/) 🐝
+where I build everything from component libraries and PWAs to APIs in AWS.
+
+
 <!--
-### Hi there 👋
 
 **PatrikElfstrom/patrikelfstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
