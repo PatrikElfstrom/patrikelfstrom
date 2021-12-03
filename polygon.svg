@@ -2372,68 +2372,105 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 @keyframes fadeIn1 {
-                    from {
+                    0% {
                         fill: rgb(38, 38, 38);
                         stroke: rgb(38, 38, 38);
                     }
 
-                    to {
+                    4.375%,
+                    64.375% {
                         fill: rgb(0, 126, 189);
                         stroke: rgb(0, 126, 189);
+                    }
+
+
+                    68.75%,
+                    100% {
+                        fill: rgb(38, 38, 38);
+                        stroke: rgb(38, 38, 38);
                     }
                 }
 
                 @keyframes fadeIn2 {
-                    from {
+                    0% {
                         fill: rgb(31, 31, 31);
                         stroke: rgb(31, 31, 31);
                     }
 
-                    to {
+                    4.375%,
+                    64.375% {
                         fill: rgb(0, 116, 173);
                         stroke: rgb(0, 116, 173);
+                    }
+
+                    68.75%,
+                    100% {
+                        fill: rgb(31, 31, 31);
+                        stroke: rgb(31, 31, 31);
                     }
                 }
 
                 @keyframes fadeIn3 {
-                    from {
+                    0% {
                         fill: rgb(38, 38, 38);
                         stroke: rgb(38, 38, 38);
                     }
 
-                    to {
+                    4.375%,
+                    64.375% {
                         fill: rgb(0, 102, 153);
                         stroke: rgb(0, 102, 153);
+                    }
+
+                    68.75%,
+                    100% {
+                        fill: rgb(38, 38, 38);
+                        stroke: rgb(38, 38, 38);
                     }
                 }
 
                 @keyframes fadeIn4 {
-                    from {
+                    0% {
                         fill: rgb(33, 33, 33);
                         stroke: rgb(33, 33, 33);
                     }
 
-                    to {
+                    4.375%,
+                    64.375% {
                         fill: rgb(0, 122, 184);
                         stroke: rgb(0, 122, 184);
+                    }
+
+                    68.75%,
+                    100% {
+                        fill: rgb(33, 33, 33);
+                        stroke: rgb(33, 33, 33);
                     }
                 }
 
                 @keyframes fadeIn5 {
-                    from {
+                    0% {
                         fill: rgb(36, 36, 36);
                         stroke: rgb(36, 36, 36);
                     }
 
-                    to {
+                    4.375%,
+                    64.375% {
                         fill: rgb(0, 133, 199);
                         stroke: rgb(0, 133, 199);
+                    }
+
+                    68.75%,
+                    100% {
+                        fill: rgb(36, 36, 36);
+                        stroke: rgb(36, 36, 36);
                     }
                 }
 
                 .logo {
-                    animation-fill-mode: forwards;
-                    animation-duration: 700ms;
+                    animation-fill-mode: both;
+                    animation-iteration-count: infinite;
+                    animation-duration: 16s;
                 }
 
                 .logo-1 {
@@ -2461,8 +2498,7 @@
                     animation-name: fadeIn5;
                     animation-delay: 1800ms;
                 }
-            </style>
-            <style>
+
                 .container {
                     display: flex;
                     flex-direction: column;
