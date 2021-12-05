@@ -3,7 +3,7 @@
 
 ### Hiii 👋
 
-I'm a developer from Sweden 🇸🇪 that mostly build stuff in TypeScript, React and NodeJS.
+I'm a self-taught developer from Sweden 🇸🇪 that mostly build stuff in TypeScript, React and Node.js.
 
 I currently work as a fullstack developer at [Humblebee](https://www.humblebee.se/) 🐝
 where I build everything from component libraries and PWAs to APIs in AWS.
