@@ -10,6 +10,6 @@ where I build everything from component libraries and PWAs to APIs in AWS.
 
 <a href="https://github.com/patrikelfstrom/corvus">
     
-![](https://corvus.elfstrom.io/year.svg)
+![](https://corvus.elfstrom.io/year.svg?theme=github)
   
 </a>
